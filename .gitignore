@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+
+# OS files
+.DS_Store
+
+# Large datasets (review before uploading)
+*.csv
+*.xlsx
+*.zip
